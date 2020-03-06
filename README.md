@@ -6,5 +6,14 @@ Hix is a hex editor for the [Atom](http://atom.io) text editor that provides a h
 
 ![Hix screenshot](screenshot.png)
 
+# How to Install
+
+If you using Windows, type this in your `cmd`
+Before type this, you must close your `Atom`
+
+```
+apm install
+```
+
 # License
 Licensed under the MIT license. Read about it [here](LICENSE).
